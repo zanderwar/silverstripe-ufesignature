@@ -1,0 +1,18 @@
+.esignature input {
+	display: none;
+}
+
+.esignature-clear {
+    font-size: 13px;
+    color: #4a4a4a;
+    padding: 5px 10px;
+    border: 1px solid #f0f0f0;
+    background: #FFF;
+    margin-left: 10px;
+}
+
+.esignature canvas {
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    vertical-align: bottom;
+}
