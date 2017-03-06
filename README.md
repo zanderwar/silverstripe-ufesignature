@@ -31,7 +31,7 @@ To use just draw your signature in the field with your mouse pointer and that's 
 ![screenshot](images/ufesignature-cms.png)
 
 ## License
-This module uses the BSD-3-Clasue license. See the [LICENSE.md](LICENSE.md) file for the full license.
+This module uses the BSD-3-Clause license. See the [LICENSE.md](LICENSE.md) file for the full license.
 
 ## Copyright
 Copyright (c) 2017, [Quadrahedron Limited](https://www.quadradigital.co.uk) All rights reserved.
